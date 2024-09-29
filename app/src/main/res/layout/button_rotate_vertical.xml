@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:orientation="horizontal"
+    android:paddingVertical="40dp"
+    >
+
+    <com.example.coffeeshop.Custom.VerticalTextView
+        android:id="@+id/button_vertical"
+        android:fontFamily="@font/gotham"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:background="@android:color/transparent"
+        android:text="Hellovb mnbnfjkg12  43  "
+        android:textSize="17sp"
+        android:textColor="@color/tan"
+        >
+
+    </com.example.coffeeshop.Custom.VerticalTextView>
+
+</LinearLayout>

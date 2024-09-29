@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:title="Cá nhân"/>
+    <item
+        android:id="@+id/changepassword"
+        android:enabled="true"
+        android:icon="@drawable/icons8_home_48"
+        android:title="Đổi mật khẩu"/>
+    <item
+        android:id="@+id/signout"
+        android:enabled="true"
+        android:title="Đăng xuất"/>
+</menu>
